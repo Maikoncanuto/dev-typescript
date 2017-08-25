@@ -3,7 +3,7 @@
     "module": "commonjs",
     "target": "es5",
     //"sourceMap": true,
-    "strictNullChecks": true
+    "strictNullChecks": true //Se for true ele não permite colocar null/undefined em variaveis 
   },
   "exclude": [
     "node_modules"
